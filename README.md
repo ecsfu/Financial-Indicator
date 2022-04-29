@@ -10,8 +10,10 @@ Tools to calculate the financial market indicators.
 
 ![image](https://user-images.githubusercontent.com/63079631/165894963-047af72f-608f-4314-82a6-b727ec7c8432.png)
 
-性质1：动荡指数是呈椭圆分布资产收益的多元马氏距离的度量。
+性质1：动荡指数是呈椭圆分布资产收益的多元马氏距离的度量。</br>
 性质2：在对资产收益进行仿射变换时，动荡指数是恒定的（invariant）。
 
 
 ![image](https://user-images.githubusercontent.com/63079631/165893811-2f169fb2-cc22-4c98-9228-153c9d7330a4.png)
+
+[M. Kritzman, Y. Li, Skulls, Financial Turbulence, and Risk Management,Financial Analysts Journal, Volume 66, Number 5, Pages 30-41, Year 2010.]
